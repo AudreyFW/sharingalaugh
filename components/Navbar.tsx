@@ -29,7 +29,7 @@ const Navbar = () => {
   }
 
   return (
-    <div className=' bg-black w-full flex justify-between items-center border-b-2 border-gray-400 py-2 px-4'>
+    <div className=' bg-black w-full flex justify-between items-center border-b-2 border-gray-400  px-4'>
         <Link href='/'>
         <div className='w-[150px]  md:w-[150px]'>
             <Image
